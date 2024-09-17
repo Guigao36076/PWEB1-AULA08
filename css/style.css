@@ -1,0 +1,22 @@
+.primeiro{
+    background-color: orange;
+}
+.segundo{
+    background-color: cornflowerblue;
+}
+.terceiro{
+    background-color: yellow;
+}
+.exemplo{
+    list-style-type: none;
+}
+.bloco{
+    width: 300px;
+    height: 120px;
+    /*  display: inline;*/
+    display: inline-block;
+}
+.bloco:hover{ /* :hover serve para quando passar por cima do item poder mudar a cor */
+    background-color: crimson;
+    color: blueviolet;
+}
